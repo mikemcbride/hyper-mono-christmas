@@ -1,5 +1,5 @@
 # hyper-mono-christmas
-Mostly monochrome Hyper theme, but with red and green
+Mostly monochrome Hyper theme, but with red and green. I find having these two colors are helpful for seeing errors and success highlights for things like running tests, linters, or any CLI processes with colored outputs.
 
 ![screenshot](https://cdn.rawgit.com/mmcbride1007/hyper-mono-christmas/9176e250/screenshot.png)
 
