@@ -1,7 +1,7 @@
 # hyper-mono-christmas
 Mostly monochrome Hyper theme, but with red and green
 
-![screenshot](https://cdn.rawgit.com/mmcbride1007/hyper-website-theme/259a039e597e24059266584abaefcde42fecac85/screenshot.png)
+![screenshot](https://cdn.rawgit.com/mmcbride1007/hyper-mono-christmas/9176e250/screenshot.png)
 
 ### Install
 
