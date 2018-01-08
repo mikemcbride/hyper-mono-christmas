@@ -1,0 +1,17 @@
+{
+  "name": "hyper-mono-christmas",
+  "version": "1.0.0",
+  "description": "Mostly monochrome Hyper theme, but with red and green",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcbride1007/hyper-mono-christmas.git"
+  },
+  "keywords": ["hyper", "theme", "monochrome"],
+  "author": "mmcbride1007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmcbride1007/hyper-mono-christmas/issues"
+  },
+  "homepage": "https://github.com/mmcbride1007/hyper-mono-christmas#readme"
+}
