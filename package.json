@@ -5,13 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmcbride1007/hyper-mono-christmas.git"
+    "url": "git+https://github.com/mikemcbride/hyper-mono-christmas.git"
   },
   "keywords": ["hyper", "theme", "monochrome"],
-  "author": "mmcbride1007",
+  "author": "mikemcbride",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmcbride1007/hyper-mono-christmas/issues"
+    "url": "https://github.com/mikemcbride/hyper-mono-christmas/issues"
   },
-  "homepage": "https://github.com/mmcbride1007/hyper-mono-christmas#readme"
+  "homepage": "https://github.com/mikemcbride/hyper-mono-christmas#readme"
 }
