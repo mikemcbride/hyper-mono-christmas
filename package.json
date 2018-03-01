@@ -7,7 +7,11 @@
     "type": "git",
     "url": "git+https://github.com/mikemcbride/hyper-mono-christmas.git"
   },
-  "keywords": ["hyper", "theme", "monochrome"],
+  "keywords": [
+    "hyper",
+    "theme",
+    "monochrome"
+  ],
   "author": "mikemcbride",
   "license": "MIT",
   "bugs": {
