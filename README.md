@@ -1,7 +1,7 @@
 # hyper-mono-christmas
 Mostly monochrome Hyper theme, but with red and green. I find having these two colors are helpful for seeing errors and success highlights for things like running tests, linters, or any CLI processes with colored outputs.
 
-![screenshot](https://cdn.jsdelivr.net/gh/mikemcbride/hyper-mono-christmas/screenshot.png)
+![screenshot](https://cdn.jsdelivr.net/gh/mikemcbride/hyper-mono-christmas@bf8a9335b6e4b5774f710fbbf02d0a9a76c1c802/screenshot.png)
 
 ### Install
 
