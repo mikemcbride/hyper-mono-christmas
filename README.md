@@ -10,7 +10,7 @@ Mostly monochrome Hyper theme, but with red and green. I find having these two c
 
   ```js
 plugins: [
-      'hyper-mono-christmas'
+    'hyper-mono-christmas'
 ],
 ```
 3. Fully reload Hyper (`Cmd+Shift+R`), and tada! :tada:
